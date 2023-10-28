@@ -1,0 +1,64 @@
+#header{
+    text-align: center;
+    #title{
+      .title_items{
+        margin-top: 4%;
+        margin-bottom: 2%;
+  
+        &_h2{
+          font-size: 40px;
+          font-family: 'Montserrat', sans-serif;
+          font-family: 'Poppins', sans-serif;
+          margin-top: -3%;
+  }
+         &_p{
+          font-family: 'Montserrat', sans-serif;
+          font-family: 'Poppins', sans-serif;
+          color: #737373;
+  }
+        }
+     
+      }
+      .photos{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+        .photo{
+          list-style-type: none;
+          text-align: start;
+          display: flex;
+          margin: 0;
+          padding: 0;
+          margin-bottom: 3%;
+          &_list{
+            margin: 0 10px;
+          } 
+          &_text{
+            font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            
+          }
+          &_text2{
+            font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            color: #737373;
+          }
+  
+        }
+        &_img{
+          width: 60%;
+  
+          
+        }
+  
+      }
+  
+  
+    }
+  
+  
+  
+  
+  

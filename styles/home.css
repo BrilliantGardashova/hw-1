@@ -1,0 +1,47 @@
+#header {
+  text-align: center;
+}
+#header #title .title_items {
+  margin-top: 4%;
+  margin-bottom: 2%;
+}
+#header #title .title_items_h2 {
+  font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+  margin-top: -3%;
+}
+#header #title .title_items_p {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+  color: #737373;
+}
+#header .photos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#header .photos .photo {
+  list-style-type: none;
+  text-align: start;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 3%;
+}
+#header .photos .photo_list {
+  margin: 0 10px;
+}
+#header .photos .photo_text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#header .photos .photo_text2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #737373;
+}
+#header .photos_img {
+  width: 60%;
+}/*# sourceMappingURL=home.css.map */
